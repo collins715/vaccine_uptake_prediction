@@ -1,4 +1,5 @@
 # vaccine_uptake_prediction
+![image](H1N1_Flu_Vaccine.jpg)
 ### 2009 h1n1_vaccine_uptake_modeling 
 This study aims to predict individuals' likelihood of receiving the H1N1 flu vaccine using survey data from the National Flu Survey (NHFS, 2009). The prediction outputs will provide public health professionals and policymakers with insights into factors associated with low vaccination rates, enabling targeted interventions.
 
